@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Cyber Security**
 
 - 📫 How to reach me **work.bishu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
