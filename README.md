@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 📫 How to reach me **work.bishu@gmail.com**
+- 📫 How to reach me
+- **Email : work.bishu@gmail.com**
 <p align="left">
 </p>
 
