@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashtagbishu&label=Profile%20views&color=0e75b6&style=flat" alt="hashtagbishu" /> </p>
 
-- 🔭 I’m currently working on **Aagani - Your Digital Courtyard for Tools**
+- 🔭 I’m currently working on **Aagani - Your Digital Courtyard for CS Tools**
 
 - 🌱 I’m currently learning **Cyber Security**
 
